@@ -8,7 +8,7 @@ export const fr: Translation = {
 	[Key.posts]: "Posts",
 	[Key.search]: "Recherche",
 
-	[Key.tags]: "Étiquettes",
+	[Key.tags]: "Tags",
 	[Key.categories]: "Catégories",
 	[Key.recentPosts]: "Posts récents",
 
@@ -16,7 +16,7 @@ export const fr: Translation = {
 
 	[Key.untitled]: "Sans titre",
 	[Key.uncategorized]: "Non classé",
-	[Key.noTags]: "Pas d'étiquettes",
+	[Key.noTags]: "Pas de tags",
 
 	[Key.wordCount]: "mot",
 	[Key.wordsCount]: "mots",
